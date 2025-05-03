@@ -22,7 +22,7 @@ export default function Portfolio() {
           </div>
           <div className="card">
             <h3 className="card-title">Experience</h3>
-            <p>Intern, XYZ Corp – Summer 2024<br />Developed internal tools using React and Node.js</p>
+            <p>Intern XYZ Corp – Summer 2024<br />Developed internal tools using React and Node.js</p>
           </div>
         </div>
       </section>
