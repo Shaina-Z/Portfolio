@@ -48,13 +48,13 @@ export default function Portfolio() {
       <section className="contact">
         <h2 className="section-title">Get in Touch</h2>
         <div className="icon-row">
-          <a href="mailto:you@example.com" aria-label="Email">
+          <a href="mailto:shaina.zacc@gmail.com" aria-label="Email">
             <Mail className="icon" />
           </a>
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener" aria-label="GitHub">
+          <a href="https://github.com/Shaina-Z" target="_blank" rel="noopener" aria-label="GitHub">
             <Github className="icon" />
           </a>
-          <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener" aria-label="LinkedIn">
+          <a href="//www.linkedin.com/in/shaina-zaccagnino/" target="_blank" rel="noopener" aria-label="LinkedIn">
             <Linkedin className="icon" />
           </a>
         </div>
