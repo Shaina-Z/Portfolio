@@ -17,7 +17,8 @@ export default function Portfolio() {
         <div className="card-container">
           <div className="card">
             <h3 className="card-title">Education</h3>
-            <p>B.S. in Computer Science, [Your University], [Graduation Year]</p>
+            <p>B.A. in Computer Science, University of Delaware, 2026</p>
+            <p>B.A. in Game Studies and Esports, University of Delaware, 2026</p>
           </div>
           <div className="card">
             <h3 className="card-title">Experience</h3>
@@ -32,12 +33,12 @@ export default function Portfolio() {
         <div className="card-container">
           <div className="card">
             <h3 className="card-title">Project One</h3>
-            <p>A web app that helps users track tasks using React and Firebase.</p>
+            <p>A web app that helps users find the right career path for them using React and ChatGPT.</p>
             <a href="#" className="link-button">View on GitHub</a>
           </div>
           <div className="card">
             <h3 className="card-title">Project Two</h3>
-            <p>A Python script that analyzes social media sentiment with NLP libraries.</p>
+            <p>Sample Text .</p>
             <a href="#" className="link-button">View on GitHub</a>
           </div>
         </div>
