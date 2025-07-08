@@ -32,7 +32,7 @@ export default function Portfolio() {
         <h2 className="section-title">Projects</h2>
         <div className="card-container">
           <div className="card">
-            <h3 className="card-title">Project One</h3>
+            <h3 className="card-title">Career Helpi</h3>
             <p>A web app that helps users find the right career path for them using React and ChatGPT.</p>
             <a href="#" className="link-button">View on GitHub</a>
           </div>
