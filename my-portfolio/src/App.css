@@ -37,7 +37,12 @@
   }
 }
 
-/* App.css */
+.earth-title{
+  font-weight: 500;
+  font-size: medium;
+ }
+
+
 
 body {
   margin: 0;

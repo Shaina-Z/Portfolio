@@ -22,11 +22,11 @@ export default function Portfolio() {
           </div>
           <div className="card">
             <h3 className="card-title">Experience</h3>
-            <p>IOS Developer Intern, Earth Hero – May 2025-Present<br />Developed and maintained the native iOS application using Swift and SwiftUI
-Optimized app performance and memory usage
-Translated user needs into technical solutions and app features
-Contributed to debugging and troubleshooting efforts
-</p>
+            <p className="earth-title">IOS Developer Intern, Earth Hero: May 2025-Present</p>
+            <p className="experience-body">Developed and maintained the native iOS application using Swift and SwiftUI<br/>
+              Optimized app performance and memory usage<br/>
+              Translated user needs into technical solutions and app features<br/>
+              Contributed to debugging and troubleshooting efforts</p>
           </div>
         </div>
       </section>
