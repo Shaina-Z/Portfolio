@@ -39,7 +39,7 @@ export default function Portfolio() {
           <div className="card">
             <h3 className="card-title">Project Two</h3>
             <p>Sample Text .</p>
-            <a href="#" className="link-button">View on GitHub</a>
+            <a href="https://shaina-z.github.io/CISC275-Final-Project/" className="link-button">View on GitHub</a>
           </div>
         </div>
       </section>
