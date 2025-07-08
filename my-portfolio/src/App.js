@@ -38,12 +38,12 @@ export default function Portfolio() {
           <div className="card">
             <h3 className="card-title">Career Helpi</h3>
             <p>A web app that helps users find the right career path for them using React and ChatGPT.</p>
-            <a href="#" className="link-button">View on GitHub</a>
+            <a href="https://shaina-z.github.io/CISC275-Final-Project/" className="link-button">View on GitHub</a>
           </div>
           <div className="card">
             <h3 className="card-title">Project Two</h3>
             <p>Sample Text .</p>
-            <a href="https://shaina-z.github.io/CISC275-Final-Project/" className="link-button">View on GitHub</a>
+            <a href="#" className="link-button">View on GitHub</a>
           </div>
         </div>
       </section>
