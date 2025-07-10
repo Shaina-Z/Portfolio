@@ -18,18 +18,22 @@ export default function Portfolio() {
         <h1 className="main-title">Hi, I'm Shaina Zaccagnino</h1>
         <p className="subtitle">Computer Science Student & Aspiring Developer</p>
       </header>
-      
-      {/* Resume Highlights */}
+
+       {/* Education */}
       <section className="section">
-        <h2 className="section-title">Resume Highlights</h2>
+        <h2 className="section-title">Education</h2>
         <div className="card-container">
           <div className="card">
-            <h3 className="card-title">Education</h3>
             <p>B.A. in Computer Science, University of Delaware, 2026</p>
             <p>B.A. in Game Studies and Esports, University of Delaware, 2026</p>
           </div>
+          </div>
+        </section>
+      {/* Experience */}
+      <section className="section">
+        <h2 className="section-title">Experience</h2>
+        <div className="card-container">
           <div className="card">
-            <h3 className="card-title">Experience</h3>
             <p className="experience-title">Software Developer Intern, University of Delaware, Office of Economic Innovation and Partnerships: June 2025-Present</p>
             <p className="experience-body">Worked with project managers to commercialize technological innovations<br/>
               Performed individual market research on invention disclosures<br/>
@@ -60,9 +64,9 @@ export default function Portfolio() {
             <a href="https://shaina-z.github.io/CISC275-Final-Project/" className="link-button">View on GitHub</a>
           </div>
           <div className="card">
-            <h3 className="card-title">Project Two</h3>
-            <p>Sample Text .</p>
-            <a href="#" className="link-button">View on GitHub</a>
+            <h3 className="card-title">Git Cookin</h3>
+            <p>A game to teach comp sci students all about git commands!</p>
+            <a href="https://github.com/Shaina-Z/Git-Cookin-" className="link-button">View on GitHub</a>
           </div>
         </div>
       </section>
