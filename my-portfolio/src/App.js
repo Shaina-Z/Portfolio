@@ -34,7 +34,7 @@ export default function Portfolio() {
         <h2 className="section-title">Experience</h2>
         <div className="card-container">
           <div className="card">
-            <p className="experience-title">Software Developer Intern, University of Delaware, Office of Economic Innovation and Partnerships: June 2025-Present</p>
+            <p className="experience-title">Software Developer Intern, University of Delaware Office of Economic Innovation and Partnerships: June 2025-Present</p>
             <p className="experience-body">Worked with project managers to commercialize technological innovations<br/>
               Performed individual market research on invention disclosures<br/>
               Consulted with business partners to market technology<br/>
@@ -44,7 +44,7 @@ export default function Portfolio() {
               Optimized app performance and memory usage<br/>
               Translated user needs into technical solutions and app features<br/>
               Contributed to debugging and troubleshooting efforts</p>
-              <p className="experience-title">Teaching Assistant, University of Delaware, Department of Computer & Information Sciences: February 2025-June 2025</p>
+              <p className="experience-title">Teaching Assistant, University of Delaware Department of Computer & Information Sciences: February 2025-June 2025</p>
               <p className="experience-body">Supervised introductory Computer Science labs  
               <br/>
               Taught students basic lessons in the programming language TypeScript<br/>
