@@ -42,6 +42,12 @@
   font-size: medium;
  }
 
+ .experience-body{
+  border: none; 
+  border-bottom: 2px solid #fcf8f8; 
+  margin: 20px 0;
+  line-height: normal;
+ }
 
 
 body {
