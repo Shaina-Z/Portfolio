@@ -33,7 +33,7 @@ export default function Portfolio() {
          <div className="card-container">
           <div className="card">
             <p className="experience-title">Programming Languages</p>
-            <p>Swift, Python, JavaScript, TypeScript, C, C++, C#, HTML </p>
+            <p>Swift, SQL, Python, JavaScript, TypeScript, C, C++, C#, HTML </p>
            <p className="experience-title">Software</p>
            <p>Adobe Photoshop, Adobe Illustrator, Microsoft Office, Blender, Unity </p>
           </div>
@@ -47,7 +47,8 @@ export default function Portfolio() {
             <p className="experience-body">Worked with project managers to commercialize technological innovations<br/>
               Performed individual market research on invention disclosures<br/>
               Consulted with business partners to market technology<br/>
-              Lead a project to design a nationwide exercise program</p>
+              Developed a nationwide digital exercise program using React and Node
+</p>
             <p className="experience-title">IOS Developer Intern, Earth Hero: May 2025-July 2025</p>
             <p className="experience-body">Developed and maintained the native iOS application using Swift and SwiftUI<br/>
               Optimized app performance and memory usage<br/>
@@ -68,13 +69,29 @@ export default function Portfolio() {
         <div className="card-container">
           <div className="card">
             <h3 className="card-title">Career Helpi</h3>
-            <p>A web app that helps users find the right career path for them using React and ChatGPT.</p>
-            <a href="https://shaina-z.github.io/CISC275-Final-Project/" className="link-button">View on GitHub</a>
+            <p>A web app that helps users find the right career path for them using React, Node, and OpenAI API.</p>
+            <a href="https://github.com/Shaina-Z/CISC275-Final-Project/" className="link-button">View on GitHub</a>
+            <p></p>
+            <a href="https://shaina-z.github.io/CISC275-Final-Project/" className="link-button">View Online</a>
+          </div>
+            <div className="card">
+            <h4 className="card-title">Comic Chameleon</h4>
+            <p>A drawing app where users can contribute to different comics together. 
+              Made with React, Node, Nest.js, Tanstack, and the Konva API.
+            </p>
+            <a href="https://github.com/UD-CISC474-F25/f25-cisc474-pink" className="link-button">View on Github</a>
+            <p></p>
+            <a href="https://comic-chameleon.shainaz.workers.dev/" className="link-button">View Online</a>
           </div>
           <div className="card">
             <h3 className="card-title">Git Cookin'</h3>
-            <p>A game to teach comp sci students all about git commands!</p>
+            <p>A game to teach computer science students all about git commands!</p>
             <a href="https://github.com/Shaina-Z/Git-Cookin-" className="link-button">View on GitHub</a>
+          </div>
+          <div className="card">
+            <h4 className="card-title">Oversleep Guard</h4>
+            <p>A prototype build of an andriod app meant to prevent oversleeping</p>
+            <a href="https://github.com/okitamisan01/OversleepGuard" className="link-button">View on GitHub</a>
           </div>
         </div>
       </section>
